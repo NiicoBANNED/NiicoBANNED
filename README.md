@@ -1,5 +1,8 @@
-- 🌱 I’m currently learning Python
 
-- 🔭 I’m currently a free agent
+👋 Hi, I'm NiicoBANNED
 
-- 📫 How to reach me: Niicobanned@gmail.com
+● 🌱 I’m currently learning Python
+
+● 🔭 I’m currently a free agent
+
+● 📫 How to reach me: Niicobanned@gmail.com
