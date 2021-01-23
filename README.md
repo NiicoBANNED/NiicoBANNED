@@ -1,7 +1,7 @@
 
 👋 Hi, I'm NiicoBANNED
 
-● 🌱 I’m currently learning Python
+● 🌱 I’m currently learning Python and JavaScript
 
 ● 🔭 I’m currently a free agent
 
