@@ -6,8 +6,10 @@ const niko = {
 }
 ```
 
-You can find me:
+🌎 You can find me 🌎
 
 - [Twitter](https://twitter.com/Nikkohh_)
 
 - [Instagram](https://www.instagram.com/)
+
+![NiicoBANNED's GitHub stats](https://github-readme-stats.vercel.app/api?username=NiicoBANNED)
