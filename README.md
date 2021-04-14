@@ -8,6 +8,6 @@ const niko = {
 
 You can find me:
 
-[Twitter](https://twitter.com/Nikkohh_)
+- [Twitter](https://twitter.com/Nikkohh_)
 
-[Instagram](https://www.instagram.com/)
+- [Instagram](https://www.instagram.com/)
