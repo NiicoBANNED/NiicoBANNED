@@ -8,7 +8,7 @@ const niko = {
 
 🌎 You can find me 🌎
 
-- [Twitter](https://twitter.com/Nikkohh_)
+- [Twitter](https://twitter.com/NiicoBANNED)
 
 - [Instagram](https://www.instagram.com/)
 
