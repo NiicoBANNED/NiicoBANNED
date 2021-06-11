@@ -8,7 +8,7 @@ const niko = {
 
 🌎 You can find me 🌎
 
-<a href="https://emoji.gg/emoji/8740_developer_transparent%22%3E<img src="https://emoji.gg/assets/emoji/8740_developer_transparent.gif" width="64px" height="64px" alt="developer_transparent"></a>
+<img src="https://emoji.gg/assets/emoji/8740_developer_transparent.gif" width="64px" height="64px" alt="developer_transparent"></a>
 
 - [Twitter](https://twitter.com/NiicoBANNED)
 
