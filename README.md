@@ -12,4 +12,5 @@ const niko = {
 
 - [Instagram](https://www.instagram.com/niicobanned)
 
-![NiicoBANNED's GitHub stats](https://github-readme-stats.vercel.app/api?username=niicobanned&show_icons=true&theme=dracula)
+![NiicoBANNED's GitHub stats](https://github-readme-stats.vercel.app/api?username=niicobanned&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niicobanned&layout=compact)]
+
