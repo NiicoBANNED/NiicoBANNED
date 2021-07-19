@@ -12,4 +12,4 @@ const niko = {
 
 - [Instagram](https://www.instagram.com/niicobanned)
 
-![NiicoBANNED's GitHub stats](https://github-readme-stats.vercel.app/api?username=NiicoBANNED)
+![NiicoBANNED's GitHub stats](https://github-readme-stats.vercel.app/api?username=niicobanned&show_icons=true&theme=dracula)
