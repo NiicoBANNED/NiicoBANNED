@@ -1,7 +1,7 @@
 ```javascript
 const niko = {
   pronouns: "he" | "him"
-  code: [Javascript, HTML, CSS, Python, Djs],
+  code: [Javascript, HTML, CSS, Djs],
   tools: [Node, Visual Studio Code, IntelliJ IDEA],
 }
 ```
