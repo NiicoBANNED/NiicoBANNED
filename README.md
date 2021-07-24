@@ -12,7 +12,7 @@ const niko = {
 
 - [Instagram](https://www.instagram.com/niicobanned)
 
-- [Discord](https://discord.gg/smpsmE4UzV)
+- [Community](https://discord.gg/smpsmE4UzV)
 
 
 
