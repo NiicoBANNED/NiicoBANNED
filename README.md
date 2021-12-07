@@ -14,7 +14,7 @@ const niko = {
 
 - [Community](https://discord.gg/smpsmE4UzV)
 
-- [Email](mailto:dev@niicobanned.com)
+- [Email] : dev@niicobanned.com
 
 
 
