@@ -6,16 +6,6 @@ const niko = {
 }
 ```
 
-🌎 You can find me 🌎
-
-- [Twitter](https://twitter.com/NiicoBANNED)
-
-- [Instagram](https://www.instagram.com/niicobanned)
-
-- [Community](https://discord.gg/smpsmE4UzV)
-
-- dev@niicobanned.com
-
 
 
 ![NiicoBANNED's GitHub stats](https://github-readme-stats.vercel.app/api?username=niicobanned&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niicobanned&layout=compact&theme=dracula)
